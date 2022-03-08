@@ -2,7 +2,7 @@ module github.com/hashicorp/terraform
 
 require (
 	cloud.google.com/go/storage v1.10.0
-	github.com/Azure/azure-sdk-for-go v52.5.0+incompatible
+	github.com/Azure/azure-sdk-for-go v62.1.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.18
 	github.com/Azure/go-ntlmssp v0.0.0-20200615164410-66371956d46c // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20190607011252-c5096ec8773d // indirect
@@ -62,7 +62,7 @@ require (
 	github.com/jtolds/gls v4.2.1+incompatible // indirect
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/lib/pq v1.8.0
-	github.com/lib/pq/auth/kerberos v0.0.0-20210528161459-9e747ca50601 // indirect
+	github.com/lib/pq/auth/kerberos v0.0.0-20210528161459-9e747ca50601
 	github.com/likexian/gokit v0.20.15
 	github.com/lusis/go-artifactory v0.0.0-20160115162124-7e4ce345df82
 	github.com/masterzen/simplexml v0.0.0-20190410153822-31eea3082786 // indirect
